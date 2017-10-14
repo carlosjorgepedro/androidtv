@@ -1,0 +1,102 @@
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\carlo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\carlo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\carlo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+:app:preBuild UP-TO-DATE
+:companionlibrary:preBuild UP-TO-DATE
+:companionlibrary:preDebugBuild UP-TO-DATE
+:companionlibrary:checkDebugManifest UP-TO-DATE
+:companionlibrary:processDebugManifest UP-TO-DATE
+:tvservices:preBuild UP-TO-DATE
+:tvservices:preDebugBuild UP-TO-DATE
+:tvservices:checkDebugManifest UP-TO-DATE
+:tvservices:processDebugManifest UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:companionlibrary:compileDebugAidl UP-TO-DATE
+:tvservices:compileDebugAidl UP-TO-DATE
+:app:compileDebugAidl UP-TO-DATE
+:companionlibrary:packageDebugRenderscript NO-SOURCE
+:tvservices:packageDebugRenderscript NO-SOURCE
+:app:compileDebugRenderscript UP-TO-DATE
+:app:checkDebugManifest UP-TO-DATE
+:app:generateDebugBuildConfig UP-TO-DATE
+:app:generateDebugResValues UP-TO-DATE
+:app:generateDebugResources UP-TO-DATE
+:companionlibrary:compileDebugRenderscript UP-TO-DATE
+:companionlibrary:generateDebugResValues UP-TO-DATE
+:companionlibrary:generateDebugResources UP-TO-DATE
+:companionlibrary:packageDebugResources UP-TO-DATE
+:tvservices:compileDebugRenderscript UP-TO-DATE
+:tvservices:generateDebugResValues UP-TO-DATE
+:tvservices:generateDebugResources UP-TO-DATE
+:tvservices:packageDebugResources UP-TO-DATE
+:app:mergeDebugResources UP-TO-DATE
+:app:createDebugCompatibleScreenManifests UP-TO-DATE
+:app:processDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskDebug UP-TO-DATE
+:companionlibrary:platformAttrExtractor UP-TO-DATE
+:companionlibrary:processDebugResources UP-TO-DATE
+:tvservices:platformAttrExtractor UP-TO-DATE
+:tvservices:processDebugResources UP-TO-DATE
+:app:processDebugResources UP-TO-DATE
+:companionlibrary:generateDebugBuildConfig UP-TO-DATE
+:companionlibrary:compileDebugKotlin
+:companionlibrary:generateDebugSources UP-TO-DATE
+:companionlibrary:javaPreCompileDebug UP-TO-DATE
+:companionlibrary:compileDebugJavaWithJavac UP-TO-DATE
+:companionlibrary:processDebugJavaRes NO-SOURCE
+:companionlibrary:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+:tvservices:generateDebugBuildConfig UP-TO-DATE
+:tvservices:compileDebugKotlin UP-TO-DATE
+:tvservices:generateDebugSources UP-TO-DATE
+:tvservices:javaPreCompileDebug UP-TO-DATE
+:tvservices:compileDebugJavaWithJavac UP-TO-DATE
+:tvservices:processDebugJavaRes NO-SOURCE
+:tvservices:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug UP-TO-DATE
+:app:compileDebugKotlin
+:app:generateDebugSources UP-TO-DATE
+:app:javaPreCompileDebug UP-TO-DATE
+:app:compileDebugJavaWithJavac UP-TO-DATE
+:app:compileDebugNdk NO-SOURCE
+:app:compileDebugSources UP-TO-DATE
+:app:mergeDebugShaders UP-TO-DATE
+:app:compileDebugShaders UP-TO-DATE
+:app:generateDebugAssets UP-TO-DATE
+:companionlibrary:mergeDebugShaders UP-TO-DATE
+:companionlibrary:compileDebugShaders UP-TO-DATE
+:companionlibrary:generateDebugAssets UP-TO-DATE
+:companionlibrary:mergeDebugAssets UP-TO-DATE
+:tvservices:mergeDebugShaders UP-TO-DATE
+:tvservices:compileDebugShaders UP-TO-DATE
+:tvservices:generateDebugAssets UP-TO-DATE
+:tvservices:mergeDebugAssets UP-TO-DATE
+:app:mergeDebugAssets UP-TO-DATE
+:app:transformClassesWithDexBuilderForDebug UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForDebug UP-TO-DATE
+:app:mergeDebugJniLibFolders UP-TO-DATE
+:companionlibrary:compileDebugNdk NO-SOURCE
+:companionlibrary:mergeDebugJniLibFolders UP-TO-DATE
+:companionlibrary:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+:companionlibrary:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+:tvservices:compileDebugNdk NO-SOURCE
+:tvservices:mergeDebugJniLibFolders UP-TO-DATE
+:tvservices:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+:tvservices:transformNativeLibsWithIntermediateJniLibsForDebug UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+:app:processDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForDebug FAILED
+61 actionable tasks: 3 executed, 58 up-to-date
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\carlo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+Terminate batch job (Y/N)? 
